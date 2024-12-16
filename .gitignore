@@ -2,3 +2,4 @@
 .Rhistory
 .RData
 .Ruserdata
+#Here write without the dot, simply the name of the file you want to ignore. As example: "test.packages.R"
